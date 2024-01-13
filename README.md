@@ -6,8 +6,10 @@
 </div>
 <b class="width:10%">
 </b>
-<h2>My Skills</h2>
-<img src="https://skillicons.dev/icons?i=tailwind,js,svelte,solidjs,astro,nodejs,express,go,mysql,postgresql,mongodb,prisma">
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=yigitdevv0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+ </details>
 <ul>
  </ul>
 <br><br>
