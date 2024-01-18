@@ -8,6 +8,7 @@
 ## Bağlantılar
 **My Website:** https://yigit.xairys.com
 **My İnstagram Account:** @yigitdev0
+**My Mail:** yigitkabak05@hotmail.com
 
 <h2 width="100%"> Genellikle günümü bunlar ile geçiririm:</h2>
 <img src="https://skillicons.dev/icons?i=bootstrap,replit,css,html,js,discord,cloudflare,codepen,express,git,github,nodejs,python,react,kotlin" />
