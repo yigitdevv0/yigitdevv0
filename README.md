@@ -13,7 +13,7 @@
 <h2 width="100%"> Genellikle günümü bunlar ile geçiririm:</h2>
 <img src="https://skillicons.dev/icons?i=bootstrap,replit,css,html,js,discord,cloudflare,codepen,express,git,github,nodejs,python,react,kotlin" />
 
-## Buy me a Coffee
+## Donate
 
  <p align="center">
  <a href="https://www.buymeacoffee.com/yigitkabak">
