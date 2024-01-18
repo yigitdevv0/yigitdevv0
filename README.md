@@ -13,7 +13,7 @@
 <br><br>
 <h2>About me</h2>
 <img width="20%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxew-w5aO5ARRdSYPxaPh2pwS7MuAnQ3A2xyEXSQBCUeb4rEV-qIb3-Sy_3X8QBGsBtk" />
-<li><b>🔭 I’m currently working on:</b> Instagram clone</li>
+<li><b>🔭 I’m currently working on:</b> Discord Bots</li>
 <li><b>🌱 I’m currently learning:</b> Rust</li>
 <li><b>👨‍💻 All of my projects are available at:</b> https://yigit.xairys.com</li>
 <li><b>😄 Fun fact:</b> I love Coding(💻), Traveling(🌍).</li>
